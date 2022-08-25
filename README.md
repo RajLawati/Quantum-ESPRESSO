@@ -32,15 +32,15 @@ This is a general idea for the Quantum ESPRESSO beginners. I attempt to give all
 3. Paste the PWscf input file here.
 4. Write codes to export data. Plot the graph.
 5. Save the .sh file. 
-6. Make executable with: chmod a+x filename.sh
-7. Run the file with: ./filename.sh
+6. Make executable with: $chmod a+x filename.sh
+7. Run the file with: $./filename.sh
 
 # General guidlines for optimisation
 1. First optimise the structure with kinetic energy cut-off (ecut).
 2. Use optimised ecut and again optimise for kpoints.
 3. Use both optimised ecut and kpoints and again optimise for lattice parameter.
 4. Then, using all three optimised parameters run the relax calculation.
-5. After that follow the ReadME.md file.  
+5. After that follow the ReadME.md file for postprocessing.  
 
 # Useful links
 1. quantum-espresso.org/tutorials/
