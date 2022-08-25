@@ -1,9 +1,0 @@
-&DOS
-   prefix = 'pwscf'
-   outdir = './out/'
-   ngauss = -1
-   degauss = 0.001
-   DeltaE = 0.001
-   fildos = 'Dos.dat'
-/
-

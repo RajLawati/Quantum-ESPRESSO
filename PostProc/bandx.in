@@ -1,6 +1,0 @@
-&BANDS
-    prefix = 'pwscf'
-    outdir = './out/'
-    filband = 'bands.dat'
-    no_overlap = .true.
-/
