@@ -1,4 +1,4 @@
-This is a general idea for the Quantum ESPRESSO beginners. 
+This is a general idea for the Quantum ESPRESSO beginners. I attempt to give all the necessary ideas for a simple DFT calculation. Read and follow the steps mentioned below and try for your materials. If you have any questions, feel free to ask. Happy Computing !!!    
 
 # Packages requirement
 1. Quantum-ESPRESSO
@@ -43,6 +43,6 @@ This is a general idea for the Quantum ESPRESSO beginners.
 5. After that follow the ReadME.md file.  
 
 # Useful links
-quantum-espresso.org/tutorials/
-quantum-espresso.org/documentation/input-data-description/
+1. quantum-espresso.org/tutorials/
+2. quantum-espresso.org/documentation/input-data-description/
 
