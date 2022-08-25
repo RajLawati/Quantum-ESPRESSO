@@ -7,8 +7,8 @@ https://www.materialscloud.org/work/tools/seekpath
 # for high symmetry points run:
 xcrysden --pwi scf.in
 
-> then select the path and save it into kpath.pwscf file
-> open kpath.pwscf file and copy the K_POINTS crystal into bands.in file
+> then select the path and save it into kpath.pwscf file.
+> open kpath.pwscf file and copy the K_POINTS crystal into bands.in file.
 
 # for band calculation run:
 mpirun -np 4 pw.x -nk 1 -npw 4 -i bands.in |tee bands.out
