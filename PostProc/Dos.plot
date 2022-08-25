@@ -11,7 +11,7 @@ ymin=-0.5
 ymax=10.0
 set xr [xmin : xmax]
 set yr [ymin : ymax]
-set title 'Plot of Density of states (spin-down)'
+set title 'Plot of Density of states'
 set xl 'Energy (eV)'
 set yl 'Density of States (Arb. unit)'
 set format y '%9.4f'
